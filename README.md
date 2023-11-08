@@ -1,7 +1,7 @@
 <div align="center"> <h1 align="center"> Heyyy👋 Welcome to my page!</h1> 
  <h2 align="center"> My name is Aqib Khan and I am a Data Analyst/Engineer </h2></div>
 <p align="center">
- 🔭 I’m currently working on building my computational finance and algorithmic trading portfolio.
+ 🔭 I'm a Data Proffesional with first class degree in computer science and 2 years experience in Data analysis, SQL and AWS cloud.
 <p align="center">
  🌱 I’m currently learning how to build machine learning models for the use in cyber secuirty and threat detection
 <p align="center">
