@@ -19,6 +19,7 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png" alt="AWS" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="R" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a>
 
 </p>
