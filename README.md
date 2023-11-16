@@ -5,7 +5,7 @@
 <p align="center">
  🌱 I’m currently learning how to build machine learning models for the use in cyber secuirty and threat detection
 <p align="center">
- ⚡ Fun fact: I am currently trying to learn german and enjoy gaming
+ ⚡ Fun fact: I enjoy travelling, I am currently trying to learn german and I enjoy gaming
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
